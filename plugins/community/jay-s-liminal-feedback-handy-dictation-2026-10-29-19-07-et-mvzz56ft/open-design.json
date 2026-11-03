@@ -1,0 +1,22 @@
+{
+  "$schema": "https://open-design.ai/schemas/plugin.v1.json",
+  "specVersion": "1.0.0",
+  "name": "jay-s-liminal-feedback-handy-dictation-2026-10-29-19-07-et-mvzz56ft",
+  "title": "Jay's Liminal feedback — Handy dictation 2026-10-29 19:07 ET",
+  "version": "0.1.0",
+  "description": "Source: Handy recording handy-1793315225.wav (7 min 4 s). Handy saved an empty transcript; re-transcribed locally (faster-whisper large-v3, no upload). Verbatim except one off-topic side conversation removed.",
+  "od": {
+    "kind": "skill",
+    "taskKind": "new-generation",
+    "context": {
+      "skills": [
+        {
+          "path": "./SKILL.md"
+        }
+      ]
+    },
+    "capabilities": [
+      "prompt:inject"
+    ]
+  }
+}
